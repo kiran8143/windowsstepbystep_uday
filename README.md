@@ -1,2 +1,2 @@
-# windowsstepbystep_uday
-sample windowsapplication
+# wpf-contact-book
+sample WPF windowsapplication
